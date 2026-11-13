@@ -1,0 +1,10 @@
+{
+  "method": "Maintainer semantic review plus explicit count/fragment checks; not blind and not a fresh 22-case comparison.",
+  "checks": {
+    "complaint_role": "Keeps unspecified product, customer role and possibility of request review.",
+    "word_count": "40 whitespace tokens; keeps registered request, two needed inputs, same conversation and unknown response time.",
+    "unknown_result": "Preserves not received and unknown announcement time, without inferring non-occurrence.",
+    "unknown_product": "Keeps unspecified object, color dissatisfaction and possibility of exchange request."
+  },
+  "limitations": "Stylistic preferences were not rescored for the complete corpus after the patch."
+}

@@ -1,0 +1,74 @@
+{
+  "support_unknown": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "support_known": {
+    "A": "v2",
+    "B": "v1"
+  },
+  "conditional_titles": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "science": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "amounts": {
+    "A": "v2",
+    "B": "v1"
+  },
+  "technical": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "locale": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "tone_casual": {
+    "A": "v2",
+    "B": "v1"
+  },
+  "tone_warm": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "tone_formal": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "tone_admin": {
+    "A": "v2",
+    "B": "v1"
+  },
+  "good_text": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "quote": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "injection": {
+    "A": "v2",
+    "B": "v1"
+  },
+  "web_create": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "complaint_role": {
+    "A": "v1",
+    "B": "v2"
+  },
+  "word_count": {
+    "A": "v2",
+    "B": "v1"
+  },
+  "deep_preservation": {
+    "A": "v1",
+    "B": "v2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "baseline_skill_sha256": "85d0d7b82b5dc5551b6a57184a04fe593c9ee1c517ef47d10be4be823679a025",
+  "final_candidate_skill_sha256": "0624d4bd8787dc3c90bd0541f75e19c5b19cf5ebfc011c5d49f4d92376996202",
+  "note": "Final candidate has a targeted fidelity patch after round 2; the round-2 outputs predate that patch.",
+  "long_form_patch_version": "2.0.1",
+  "long_form_patch_skill_sha256": "f4f5ed605828de29fa51dc65f2faac6d5feacaccee57c2217229a29ff8c99310"
+}

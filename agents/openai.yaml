@@ -1,0 +1,6 @@
+interface:
+  display_name: "Humanizer فارسی"
+  short_description: "Persian writing with selectable tone and meaning checks"
+  default_prompt: "Use $humanizer-fa to write or revise this Persian text in a fitting tone while preserving its meaning."
+policy:
+  allow_implicit_invocation: true
